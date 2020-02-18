@@ -31,3 +31,7 @@ timestamp   YYYY-MM-DD HH:MI:SS
 year        YYYY
 time        HH:MI:SS
 now()
+
+
+
+$ mysql -u root
